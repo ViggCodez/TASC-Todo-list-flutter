@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "863192911747",
+    "firebase_url": "https://tasc-d2f51-default-rtdb.firebaseio.com",
+    "project_id": "tasc-d2f51",
+    "storage_bucket": "tasc-d2f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863192911747:android:d3562881204ce92f9ef0b6",
+        "android_client_info": {
+          "package_name": "com.example.tasc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863192911747-dsodo0le1pr55fm8oo41ldegonu96bra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtUXC14c-So7TsG-uxavcDOAvl3WP1n6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863192911747-dsodo0le1pr55fm8oo41ldegonu96bra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
