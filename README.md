@@ -18,10 +18,6 @@ TASC is a simple and intuitive to-do list app built using Flutter. It helps you 
 
 - **Task Details:** Add additional notes or details to tasks as needed.
 
-## Screenshots
-
-
-
 ## Getting Started
 
 To use TASC, follow these simple steps:
