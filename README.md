@@ -61,9 +61,6 @@ TASC uses the following dependencies:
 - [flutter_screenutil: ^5.6.0](https://pub.dev/packages/flutter_screenutil) - Make the app responsive across different screen sizes.
 - [video_player: ^2.6.1](https://pub.dev/packages/video_player) - Play videos in the app.
 
-
-Description: This package provides authentication support for Firebase, allowing users 
-
 Make sure you have the latest Flutter SDK installed before running the app.
 
 ## Contributing
@@ -75,6 +72,6 @@ Contributions are welcome! If you have any bug reports, feature requests, or imp
 
 If you have any questions or suggestions regarding TASC, feel free to contact us at [vigneshbaiju.vb@gmail.com](mailto:vigneshbaiju.vb@gmail.com).
 
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Thank you for using TASC! We hope this app makes managing your tasks a breeze. Happy organizing!
